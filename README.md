@@ -1,1 +1,0 @@
-# xspeen-pixel-resizer
