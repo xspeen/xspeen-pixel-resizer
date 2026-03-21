@@ -3,7 +3,7 @@
 Professional Image & GIF Resizing Service for BotFather
 
 <p align="center">
-  <img src="https://iili.io/q7Sztt9.jpg" alt="XSPEEN Pixel Resizer Logo" width="900"/>
+  <img src="https://iili.io/q7Sztt9.jpg" alt="XSPEEN Pixel Resizer Logo" width="800"/>
 </p>
 
 <p align="center">
